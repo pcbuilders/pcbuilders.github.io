@@ -15,8 +15,8 @@ slug: home
         {% if post.price %}<tr><td>Price</td><td>{{post.price}}</td></tr>{% endif %}
         {% if post.cpu %}<tr><td>CPU</td><td>{{post.cpu}}</td></tr>{% endif %}
         {% if post.gpu %}<tr><td>GPU</td><td>{{post.gpu}}</td></tr>{% endif %}
-        {% if post.cpuclock %}<tr><td>Max CPU Clock</td><td>{{post.cpuclock}}</td></tr>{% endif %}
-        {% if post.gpuclock %}<tr><td>Max GPU Clock</td><td>{{post.gpuclock}}</td></tr>{% endif %}
+        {% if post.cpuclock %}<tr><td>CPU Core Clock Rate</td><td>{{post.cpuclock}}</td></tr>{% endif %}
+        {% if post.gpuclock %}<tr><td>GPU Core Clock Rate</td><td>{{post.gpuclock}}</td></tr>{% endif %}
       </tbody>
     </table>
     <p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
