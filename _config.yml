@@ -1,0 +1,13 @@
+# Site settings
+title: List of Best PC Gaming and Rig Builds
+description: See all best completed pc build with your budget. Build a desktop computer or gaming rig from scratch just the way you want it.
+baseurl: ""
+name: "PC Builders"
+url: "http://pcbuilders.github.io"
+
+# Build settings
+markdown:       kramdown
+permalink:      pretty
+paginate:       5
+encoding:       UTF-8
+
