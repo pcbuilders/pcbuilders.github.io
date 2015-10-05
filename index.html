@@ -12,7 +12,7 @@ slug: home
     <span class="post-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></span>
     <table>
       <tbody>
-        {% if post.price %}<tr><td>Price</td><td>{{post.price}}</td></tr>{% endif %}
+        {% if post.price %}<tr><td>Total</td><td>{{post.price}}</td></tr>{% endif %}
         {% if post.cpu %}<tr><td>CPU</td><td>{{post.cpu}}</td></tr>{% endif %}
         {% if post.gpu %}<tr><td>GPU</td><td>{{post.gpu}}</td></tr>{% endif %}
         {% if post.cpuclock %}<tr><td>CPU Core Clock Rate</td><td>{{post.cpuclock}}</td></tr>{% endif %}
