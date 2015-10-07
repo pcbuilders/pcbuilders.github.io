@@ -37,3 +37,5 @@ Date Built | Oct. 2, 2015
 CPU Clock Rate | 3.7GHz
 CPU Temperature While Idle | 28.0° C
 CPU Temperature Under Load | 46.0° C
+
+Bookmark: [Best Gaming PC Build Under $809.55: Oblivion Wing - 805 Case Red/Black Yveltal Theme.](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-809-dollars-dot-55-oblivion-wing-805-case-red-slash-black-yveltal-theme/)

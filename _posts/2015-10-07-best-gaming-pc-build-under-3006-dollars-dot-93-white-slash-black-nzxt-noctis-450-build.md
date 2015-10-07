@@ -37,3 +37,5 @@ Total | $3006.93
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $3006.93: White/Black NZXT Noctis 450 Build](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-3006-dollars-dot-93-white-slash-black-nzxt-noctis-450-build/)

@@ -40,3 +40,5 @@ Date Built | Aug. 28, 2015
 CPU Clock Rate | 3.5GHz
 CPU Temperature While Idle | 32.0° C
 GPU Core Clock Rate | 1.27Ghz
+
+Bookmark: [Best Gaming PC Build Under $1793.71: Ultimate Corsair 1080p Gaming Machine - GTX 980 - i5-4690k - 16 GB of RAM](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1793-dollars-dot-71-ultimate-corsair-1080p-gaming-machine-gtx-980-i5-4690k-16-gb-of-ram/)

@@ -37,3 +37,5 @@ Total | $1230.93
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.08Ghz
 GPU Effective Memory Clock Rate | 5.4GHz
+
+Bookmark: [Best Gaming PC Build Under $1230.93: The Little Case That Could - 1st Mini-ITX Build](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1230-dollars-dot-93-the-little-case-that-could-1st-mini-itx-build/)

@@ -47,3 +47,5 @@ Total | $1359.80
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.11Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1359.80: Red and Black 1080p gaming Build](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1359-dollars-dot-80-red-and-black-1080p-gaming-build/)

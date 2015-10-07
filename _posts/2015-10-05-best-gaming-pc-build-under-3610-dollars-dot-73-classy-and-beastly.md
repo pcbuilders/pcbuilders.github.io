@@ -51,3 +51,5 @@ GPU Core Clock Rate | 1.02Ghz
 GPU Effective Memory Clock Rate | 5.0GHz
 GPU Temperature While Idle | 34.0° C
 GPU Temperature Under Load | 59.0° C
+
+Bookmark: [Best Gaming PC Build Under $3610.73: Classy and Beastly](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3610-dollars-dot-73-classy-and-beastly/)

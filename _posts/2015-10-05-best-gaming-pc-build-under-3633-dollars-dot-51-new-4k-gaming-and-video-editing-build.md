@@ -44,3 +44,5 @@ Date Published | Oct. 2, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 6.1GHz
+
+Bookmark: [Best Gaming PC Build Under $3633.51: New 4K gaming and video editing build!!!!!](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3633-dollars-dot-51-new-4k-gaming-and-video-editing-build/)

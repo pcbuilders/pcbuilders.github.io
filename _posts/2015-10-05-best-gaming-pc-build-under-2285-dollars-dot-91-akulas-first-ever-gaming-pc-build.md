@@ -41,3 +41,5 @@ Date Published | Oct. 1, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2285.91: Akula&#39;s First Ever Gaming PC Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2285-dollars-dot-91-akulas-first-ever-gaming-pc-build/)

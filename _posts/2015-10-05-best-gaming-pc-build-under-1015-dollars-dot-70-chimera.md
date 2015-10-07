@@ -41,3 +41,5 @@ GPU Core Clock Rate | 1.12Ghz
 GPU Effective Memory Clock Rate | 1.5GHz
 GPU Temperature While Idle | 35.0° C
 GPU Temperature Under Load | 70.0° C
+
+Bookmark: [Best Gaming PC Build Under $1015.70: Chimera](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1015-dollars-dot-70-chimera/)

@@ -35,3 +35,5 @@ CPU Temperature While Idle | 25.0° C
 CPU Temperature Under Load | 48.0° C
 GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 5.8GHz
+
+Bookmark: [Best Gaming PC Build Under $529.44: My PC (Inaccurate Price, Actual: $553)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-529-dollars-dot-44-my-pc-inaccurate-price-actual-553-dollars/)

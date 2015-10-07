@@ -38,3 +38,5 @@ GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 500MHz
 GPU Temperature While Idle | 27.0° C
 GPU Temperature Under Load | 73.0° C
+
+Bookmark: [Best Gaming PC Build Under $1951.97: My First AMD Build](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1951-dollars-dot-97-my-first-amd-build/)

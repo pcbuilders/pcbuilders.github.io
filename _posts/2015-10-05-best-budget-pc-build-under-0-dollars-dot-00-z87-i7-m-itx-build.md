@@ -35,3 +35,5 @@ Date Published | Sept. 29, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 6.0GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: Z87 i7 M-ITX build](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-z87-i7-m-itx-build/)

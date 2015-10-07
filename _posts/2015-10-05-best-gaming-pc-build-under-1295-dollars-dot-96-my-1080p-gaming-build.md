@@ -43,3 +43,5 @@ GPU Core Clock Rate | 1.19Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 32.0° C
 GPU Temperature Under Load | 72.0° C
+
+Bookmark: [Best Gaming PC Build Under $1295.96: My 1080p Gaming build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1295-dollars-dot-96-my-1080p-gaming-build/)

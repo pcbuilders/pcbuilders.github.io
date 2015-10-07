@@ -44,3 +44,5 @@ Date Published | Sept. 28, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $4055.42: Codename RAT: Mini ITX Gaming/Workstation Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-4055-dollars-dot-42-codename-rat-mini-itx-gaming-slash-workstation-build/)

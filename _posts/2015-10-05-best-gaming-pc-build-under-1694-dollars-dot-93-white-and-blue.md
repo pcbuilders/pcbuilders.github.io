@@ -42,3 +42,5 @@ CPU Temperature While Idle | 33.0° C
 CPU Temperature Under Load | 40.0° C
 GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 4MHz
+
+Bookmark: [Best Gaming PC Build Under $1694.93: White and Blue](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1694-dollars-dot-93-white-and-blue/)

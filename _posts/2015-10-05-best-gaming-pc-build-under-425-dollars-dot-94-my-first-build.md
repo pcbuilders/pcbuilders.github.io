@@ -35,3 +35,5 @@ Date Built | Aug. 7, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.15Ghz
 GPU Effective Memory Clock Rate | 6.6GHz
+
+Bookmark: [Best Gaming PC Build Under $425.94: My First build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-425-dollars-dot-94-my-first-build/)

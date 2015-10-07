@@ -44,3 +44,5 @@ Date Published | Oct. 2, 2015
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2132.20: Great White ](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2132-dollars-dot-20-great-white/)

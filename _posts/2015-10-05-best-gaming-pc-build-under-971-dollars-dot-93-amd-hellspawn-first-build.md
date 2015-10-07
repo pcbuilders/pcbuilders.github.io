@@ -44,3 +44,5 @@ GPU Core Clock Rate | 970MHz
 GPU Effective Memory Clock Rate | 5.7GHz
 GPU Temperature While Idle | 32.0° C
 GPU Temperature Under Load | 50.0° C
+
+Bookmark: [Best Gaming PC Build Under $971.93: Amd Hellspawn (First build)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-971-dollars-dot-93-amd-hellspawn-first-build/)

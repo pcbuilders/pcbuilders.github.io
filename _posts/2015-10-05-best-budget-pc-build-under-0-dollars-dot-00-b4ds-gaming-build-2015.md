@@ -44,3 +44,5 @@ GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
 GPU Temperature While Idle | 25.0° C
 GPU Temperature Under Load | 32.0° C
+
+Bookmark: [Best Budget PC Build Under $0.00: b4d&#39;s Gaming Build  2015](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-b4ds-gaming-build-2015/)

@@ -33,3 +33,5 @@ Total | $471.25
 
 Date Published | Sept. 30, 2015
 CPU Clock Rate | 3.1GHz
+
+Bookmark: [Best Gaming PC Build Under $471.25: renieSPOT](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-471-dollars-dot-25-reniespot/)

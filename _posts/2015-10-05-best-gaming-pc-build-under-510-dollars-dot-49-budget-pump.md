@@ -36,3 +36,5 @@ Total | $510.49
 CPU Clock Rate | 3.2GHz
 GPU Core Clock Rate | 1.20Ghz
 GPU Effective Memory Clock Rate | 7.02Ghz
+
+Bookmark: [Best Gaming PC Build Under $510.49: Budget Pump](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-510-dollars-dot-49-budget-pump/)

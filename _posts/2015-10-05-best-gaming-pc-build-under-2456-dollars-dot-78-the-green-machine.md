@@ -40,3 +40,5 @@ Date Published | Oct. 4, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.24Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2456.78: THE GREEN MACHINE](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2456-dollars-dot-78-the-green-machine/)

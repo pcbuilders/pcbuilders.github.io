@@ -34,3 +34,5 @@ Date Published | Sept. 29, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.06Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1217.30: 5/11/14 4770k &amp; GTX-770](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1217-dollars-dot-30-5-slash-11-slash-14-4770k-and-gtx-770/)

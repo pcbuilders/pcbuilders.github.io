@@ -32,3 +32,5 @@ Total | $449.61
 
 Date Published | Sept. 30, 2015
 CPU Clock Rate | 3.7GHz
+
+Bookmark: [Best Gaming PC Build Under $449.61: My First Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-449-dollars-dot-61-my-first-build/)

@@ -38,3 +38,5 @@ GPU Core Clock Rate | 980MHz
 GPU Effective Memory Clock Rate | 5.7GHz
 GPU Temperature While Idle | 60.0° C
 GPU Temperature Under Load | 70.0° C
+
+Bookmark: [Best Gaming PC Build Under $1178.24: First Skylake Mini ITX build :)](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1178-dollars-dot-24-first-skylake-mini-itx-build/)

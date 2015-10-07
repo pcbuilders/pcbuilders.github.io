@@ -45,3 +45,5 @@ GPU Core Clock Rate | 970MHz
 GPU Effective Memory Clock Rate | 5.7GHz
 GPU Temperature While Idle | 35.0° C
 GPU Temperature Under Load | 55.0° C
+
+Bookmark: [Best Gaming PC Build Under $1203.85: Non poteram ascendere fecit nibh nomine i latin.](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1203-dollars-dot-85-non-poteram-ascendere-fecit-nibh-nomine-i-latin/)

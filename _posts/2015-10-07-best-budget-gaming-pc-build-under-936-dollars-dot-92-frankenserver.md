@@ -32,3 +32,5 @@ Total | $936.92
 ## Details
 
 CPU Clock Rate | 3.4GHz
+
+Bookmark: [Best Budget Gaming PC Build Under $936.92: Frankenserver](http://pcbuilders.github.io/2015/10/07/best-budget-gaming-pc-build-under-936-dollars-dot-92-frankenserver/)

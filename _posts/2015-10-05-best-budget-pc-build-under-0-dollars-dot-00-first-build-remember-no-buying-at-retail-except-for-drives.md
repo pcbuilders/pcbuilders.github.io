@@ -34,3 +34,5 @@ Date Published | Sept. 29, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.02Ghz
 GPU Effective Memory Clock Rate | 5.6GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: First Build - Remember, No Buying at Retail (Except for Drives)](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-first-build-remember-no-buying-at-retail-except-for-drives/)

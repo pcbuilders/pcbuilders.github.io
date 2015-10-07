@@ -33,3 +33,5 @@ Total | $666.00
 Date Published | Oct. 2, 2015
 CPU Clock Rate | 3.7GHz
 GPU Core Clock Rate | 1.05Ghz
+
+Bookmark: [Best Gaming PC Build Under $666.00: Green Particle (EVGA Hadron build)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-666-dollars-dot-00-green-particle-evga-hadron-build/)

@@ -43,3 +43,5 @@ Date Built | Aug. 1, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1453.10: Wolf&#39;s Lair](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1453-dollars-dot-10-wolfs-lair/)

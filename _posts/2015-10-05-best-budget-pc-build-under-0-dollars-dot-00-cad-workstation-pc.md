@@ -45,3 +45,5 @@ GPU Core Clock Rate | 1.13Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 39.0° C
 GPU Temperature Under Load | 80.0° C
+
+Bookmark: [Best Budget PC Build Under $0.00: CAD Workstation PC](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-cad-workstation-pc/)

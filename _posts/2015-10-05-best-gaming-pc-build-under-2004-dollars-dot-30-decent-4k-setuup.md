@@ -48,3 +48,5 @@ Date Published | Sept. 28, 2015
 CPU Clock Rate | 3.2GHz
 GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
+
+Bookmark: [Best Gaming PC Build Under $2004.30: Decent 4k setuup](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2004-dollars-dot-30-decent-4k-setuup/)

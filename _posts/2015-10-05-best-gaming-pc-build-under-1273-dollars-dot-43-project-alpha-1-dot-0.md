@@ -38,3 +38,5 @@ Date Published | Oct. 4, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 970MHz
 GPU Effective Memory Clock Rate | 5.7GHz
+
+Bookmark: [Best Gaming PC Build Under $1273.43: Project Alpha 1.0](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1273-dollars-dot-43-project-alpha-1-dot-0/)

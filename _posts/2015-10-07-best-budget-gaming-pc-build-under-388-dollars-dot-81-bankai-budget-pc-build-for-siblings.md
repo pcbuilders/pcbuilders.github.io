@@ -31,3 +31,5 @@ Total | $388.81
 
 CPU Clock Rate | 3.2GHz
 GPU Effective Memory Clock Rate | 6.0GHz
+
+Bookmark: [Best Budget Gaming PC Build Under $388.81: Bankai : Budget PC Build for Siblings. ](http://pcbuilders.github.io/2015/10/07/best-budget-gaming-pc-build-under-388-dollars-dot-81-bankai-budget-pc-build-for-siblings/)

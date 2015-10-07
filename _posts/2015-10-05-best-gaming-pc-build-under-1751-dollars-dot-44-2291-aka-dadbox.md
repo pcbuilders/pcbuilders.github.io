@@ -66,3 +66,5 @@ Total | $1751.44
 CPU Clock Rate | 3.1GHz
 GPU Core Clock Rate | 980MHz
 GPU Effective Memory Clock Rate | 6.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1751.44: 2291 aka &#39;Dadbox&#39;](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1751-dollars-dot-44-2291-aka-dadbox/)

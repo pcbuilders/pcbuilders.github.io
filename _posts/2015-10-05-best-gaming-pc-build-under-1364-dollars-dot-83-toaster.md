@@ -37,3 +37,5 @@ Date Published | Sept. 30, 2015
 CPU Clock Rate | 3.7GHz
 GPU Core Clock Rate | 985MHz
 GPU Effective Memory Clock Rate | 5.8GHz
+
+Bookmark: [Best Gaming PC Build Under $1364.83: Toaster](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1364-dollars-dot-83-toaster/)

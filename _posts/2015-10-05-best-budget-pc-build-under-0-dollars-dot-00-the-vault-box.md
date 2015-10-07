@@ -37,3 +37,5 @@ CPU Temperature While Idle | 38.0° C
 CPU Temperature Under Load | 48.0° C
 GPU Core Clock Rate | 700MHz
 GPU Effective Memory Clock Rate | 1.8GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: The Vault-Box](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-the-vault-box/)

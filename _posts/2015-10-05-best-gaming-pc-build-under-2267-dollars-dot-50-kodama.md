@@ -39,3 +39,5 @@ Date Built | Sept. 30, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.25Ghz
 GPU Effective Memory Clock Rate | 7.21Ghz
+
+Bookmark: [Best Gaming PC Build Under $2267.50: Kodama](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2267-dollars-dot-50-kodama/)

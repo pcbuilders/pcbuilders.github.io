@@ -40,3 +40,5 @@ Total | $2654.84
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 1.25Ghz
 GPU Effective Memory Clock Rate | 7.21Ghz
+
+Bookmark: [Best Gaming PC Build Under $2654.84: Witcher White!](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2654-dollars-dot-84-witcher-white/)

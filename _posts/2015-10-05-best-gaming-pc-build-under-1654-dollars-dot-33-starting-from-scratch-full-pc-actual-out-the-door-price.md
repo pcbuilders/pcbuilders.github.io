@@ -45,3 +45,5 @@ CPU Temperature While Idle | 33.0° C
 GPU Core Clock Rate | 1.11Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 35.0° C
+
+Bookmark: [Best Gaming PC Build Under $1654.33: Starting from scratch (FULL PC) Actual &quot;OUT-THE-DOOR&quot; price](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1654-dollars-dot-33-starting-from-scratch-full-pc-actual-out-the-door-price/)

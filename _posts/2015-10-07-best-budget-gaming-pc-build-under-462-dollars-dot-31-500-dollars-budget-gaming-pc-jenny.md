@@ -34,3 +34,5 @@ CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.08Ghz
 GPU Effective Memory Clock Rate | 5.4GHz
 GPU Temperature While Idle | 30.0° C
+
+Bookmark: [Best Budget Gaming PC Build Under $462.31: $500 Budget Gaming PC (Jenny)](http://pcbuilders.github.io/2015/10/07/best-budget-gaming-pc-build-under-462-dollars-dot-31-500-dollars-budget-gaming-pc-jenny/)

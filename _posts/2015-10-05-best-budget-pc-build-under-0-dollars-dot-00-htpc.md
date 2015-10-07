@@ -42,3 +42,5 @@ Date Published | Oct. 4, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 985MHz
 GPU Effective Memory Clock Rate | 5.8GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: HTPC ](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-htpc/)

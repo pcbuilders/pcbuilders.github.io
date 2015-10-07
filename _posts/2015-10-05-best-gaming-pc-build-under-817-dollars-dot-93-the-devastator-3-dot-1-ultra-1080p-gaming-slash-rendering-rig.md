@@ -34,3 +34,5 @@ Date Built | Sept. 30, 2015
 CPU Clock Rate | 3.4GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 5.04Ghz
+
+Bookmark: [Best Gaming PC Build Under $817.93: The DEVASTATOR 3.1 - Ultra 1080p Gaming/Rendering Rig](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-817-dollars-dot-93-the-devastator-3-dot-1-ultra-1080p-gaming-slash-rendering-rig/)

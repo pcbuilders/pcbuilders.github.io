@@ -44,3 +44,5 @@ Date Published | Oct. 1, 2015
 CPU Clock Rate | 4.7GHz
 GPU Core Clock Rate | 1.1GHz
 GPU Effective Memory Clock Rate | 5.8GHz
+
+Bookmark: [Best Gaming PC Build Under $2642.99: My first AMD custom water cooled build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2642-dollars-dot-99-my-first-amd-custom-water-cooled-build/)

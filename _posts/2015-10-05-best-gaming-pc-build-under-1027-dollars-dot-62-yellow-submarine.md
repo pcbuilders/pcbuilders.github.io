@@ -40,3 +40,5 @@ GPU Core Clock Rate | 980MHz
 GPU Effective Memory Clock Rate | 5.9GHz
 GPU Temperature While Idle | 52.0° C
 GPU Temperature Under Load | 83.0° C
+
+Bookmark: [Best Gaming PC Build Under $1027.62: Yellow Submarine](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1027-dollars-dot-62-yellow-submarine/)

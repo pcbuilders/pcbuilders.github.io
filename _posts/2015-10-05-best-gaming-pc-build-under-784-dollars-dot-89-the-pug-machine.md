@@ -41,3 +41,5 @@ GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 6.01Ghz
 GPU Temperature While Idle | 27.0° C
 GPU Temperature Under Load | 60.0° C
+
+Bookmark: [Best Gaming PC Build Under $784.89: The Pug Machine](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-784-dollars-dot-89-the-pug-machine/)

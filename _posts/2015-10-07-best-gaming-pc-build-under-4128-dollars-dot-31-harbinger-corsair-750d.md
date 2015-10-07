@@ -55,3 +55,5 @@ Total | $4128.31
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 1.13Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $4128.31: Harbinger - Corsair 750D](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-4128-dollars-dot-31-harbinger-corsair-750d/)

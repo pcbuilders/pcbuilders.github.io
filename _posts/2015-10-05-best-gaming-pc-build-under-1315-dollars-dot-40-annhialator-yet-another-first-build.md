@@ -37,3 +37,5 @@ CPU Clock Rate | 4.0GHz
 CPU Temperature While Idle | 16.0° C
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 6.1GHz
+
+Bookmark: [Best Gaming PC Build Under $1315.40: Annhialator- Yet another first build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1315-dollars-dot-40-annhialator-yet-another-first-build/)

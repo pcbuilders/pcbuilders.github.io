@@ -46,3 +46,5 @@ Date Published | Sept. 29, 2015
 CPU Clock Rate | 3.6GHz
 GPU Core Clock Rate | 1.19Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2596.64: Purged Gaming Rig 2015](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2596-dollars-dot-64-purged-gaming-rig-2015/)

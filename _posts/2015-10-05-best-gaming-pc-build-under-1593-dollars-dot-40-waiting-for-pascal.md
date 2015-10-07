@@ -44,3 +44,5 @@ Date Built | Sept. 30, 2015
 CPU Clock Rate | 4.3GHz
 CPU Temperature While Idle | 35.0° C
 CPU Temperature Under Load | 55.0° C
+
+Bookmark: [Best Gaming PC Build Under $1593.40: Waiting for Pascal](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1593-dollars-dot-40-waiting-for-pascal/)

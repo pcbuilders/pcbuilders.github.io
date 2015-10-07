@@ -37,3 +37,5 @@ Date Published | Oct. 2, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.01Ghz
 GPU Effective Memory Clock Rate | 6.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $693.00: SNOWSTORM - 4 Years of Craigslist](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-693-dollars-dot-00-snowstorm-4-years-of-craigslist/)

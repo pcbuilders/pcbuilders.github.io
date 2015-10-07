@@ -30,3 +30,5 @@ Total | $791.89
 Date Published | Sept. 29, 2015
 Date Built | Jan. 2, 2014
 CPU Clock Rate | 3.8GHz
+
+Bookmark: [Best Gaming PC Build Under $791.89: Mini Home Server](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-791-dollars-dot-89-mini-home-server/)

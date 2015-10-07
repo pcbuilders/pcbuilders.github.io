@@ -47,3 +47,5 @@ GPU Core Clock Rate | 1.01Ghz
 GPU Effective Memory Clock Rate | 6.0GHz
 GPU Temperature While Idle | 40.0° C
 GPU Temperature Under Load | 65.0° C
+
+Bookmark: [Best Gaming PC Build Under $1088.62: my pc amd 8350 with the nitro r9 390 backplat edition ](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1088-dollars-dot-62-my-pc-amd-8350-with-the-nitro-r9-390-backplat-edition/)

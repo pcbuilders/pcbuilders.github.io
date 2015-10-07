@@ -41,3 +41,5 @@ Total | $1917.11
 Date Published | Oct. 1, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.05Ghz
+
+Bookmark: [Best Gaming PC Build Under $1917.11: Other one of 2...](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1917-dollars-dot-11-other-one-of-2-dot-dot-dot/)

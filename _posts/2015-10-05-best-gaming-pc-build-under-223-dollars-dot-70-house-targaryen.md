@@ -38,3 +38,5 @@ Date Built | Sept. 30, 2015
 CPU Clock Rate | 4.0GHz
 CPU Temperature While Idle | 20.0° C
 CPU Temperature Under Load | 40.0° C
+
+Bookmark: [Best Gaming PC Build Under $223.70: House Targaryen](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-223-dollars-dot-70-house-targaryen/)

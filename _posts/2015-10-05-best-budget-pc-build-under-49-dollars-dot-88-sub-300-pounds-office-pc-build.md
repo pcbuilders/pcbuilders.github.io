@@ -34,3 +34,6 @@ Total | $49.88
 Date Published | Oct. 1, 2015
 Date Built | Oct. 1, 2015
 CPU Clock Rate | 3.2GHz
+
+
+Bookmark: [Best Budget PC Build Under $49.88: Sub £300 Office PC Build](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-49-dollars-dot-88-sub-300-pounds-office-pc-build/)

@@ -35,3 +35,5 @@ Date Published | Sept. 30, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.19Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1208.45: Skylake i5 6600k | GTX 970 4GB](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1208-dollars-dot-45-skylake-i5-6600k-gtx-970-4gb/)

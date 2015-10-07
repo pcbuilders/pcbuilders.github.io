@@ -35,3 +35,5 @@ Total | $1545.25
 
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.27Ghz
+
+Bookmark: [Best Gaming PC Build Under $1545.25: First Build! $1550 budget](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1545-dollars-dot-25-first-build-1550-dollars-budget/)

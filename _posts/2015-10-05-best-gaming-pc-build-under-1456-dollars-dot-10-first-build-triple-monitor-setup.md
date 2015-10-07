@@ -41,3 +41,5 @@ Date Published | Oct. 4, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.24Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1456.10: First Build Triple Monitor Setup!](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1456-dollars-dot-10-first-build-triple-monitor-setup/)

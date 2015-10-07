@@ -46,3 +46,5 @@ CPU Temperature While Idle | 27.0° C
 GPU Core Clock Rate | 1.28Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 35.0° C
+
+Bookmark: [Best Gaming PC Build Under $2839.15: BLACKOUT-First Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2839-dollars-dot-15-blackout-first-build/)

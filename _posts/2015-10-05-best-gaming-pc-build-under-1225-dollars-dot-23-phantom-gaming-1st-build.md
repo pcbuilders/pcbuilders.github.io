@@ -43,3 +43,5 @@ GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 6.0GHz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 61.0° C
+
+Bookmark: [Best Gaming PC Build Under $1225.23: Phantom Gaming (1st build)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1225-dollars-dot-23-phantom-gaming-1st-build/)

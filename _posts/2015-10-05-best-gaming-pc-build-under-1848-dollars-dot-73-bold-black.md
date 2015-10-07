@@ -44,3 +44,5 @@ GPU Core Clock Rate | 1.19Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 37.0° C
 GPU Temperature Under Load | 68.0° C
+
+Bookmark: [Best Gaming PC Build Under $1848.73: Bold Black](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1848-dollars-dot-73-bold-black/)

@@ -41,3 +41,5 @@ Total | $1701.24
 Date Published | Oct. 2, 2015
 CPU Clock Rate | 3.2GHz
 GPU Effective Memory Clock Rate | 5.5GHz
+
+Bookmark: [Best Gaming PC Build Under $1701.24: My Current Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1701-dollars-dot-24-my-current-build/)

@@ -40,3 +40,5 @@ Date Published | Sept. 30, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 981MHz
 GPU Effective Memory Clock Rate | 4.51Ghz
+
+Bookmark: [Best Gaming PC Build Under $2266.46: Home Recording Studio Build (Client)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2266-dollars-dot-46-home-recording-studio-build-client/)

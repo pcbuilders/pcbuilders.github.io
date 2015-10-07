@@ -42,3 +42,5 @@ GPU Core Clock Rate | 1.24Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 35.0° C
 GPU Temperature Under Load | 35.0° C
+
+Bookmark: [Best Gaming PC Build Under $891.06: Hackintosh build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-891-dollars-dot-06-hackintosh-build/)

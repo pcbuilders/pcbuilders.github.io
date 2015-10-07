@@ -58,3 +58,5 @@ GPU Core Clock Rate | 1.10Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 45.0° C
 GPU Temperature Under Load | 77.0° C
+
+Bookmark: [Best Gaming PC Build Under $4285.71: yPC MK.II](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-4285-dollars-dot-71-ypc-mk-dot-ii/)

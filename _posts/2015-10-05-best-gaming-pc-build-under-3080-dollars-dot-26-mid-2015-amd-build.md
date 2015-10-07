@@ -45,3 +45,5 @@ Date Published | Oct. 4, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.02Ghz
 GPU Effective Memory Clock Rate | 5.0GHz
+
+Bookmark: [Best Gaming PC Build Under $3080.26: Mid 2015 AMD Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3080-dollars-dot-26-mid-2015-amd-build/)

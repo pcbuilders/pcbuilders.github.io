@@ -34,3 +34,5 @@ Total | $0.00
 ## Details
 
 CPU Clock Rate | 3.3GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: Striker&#39;s - Dark Blaze](http://pcbuilders.github.io/2015/10/07/best-budget-pc-build-under-0-dollars-dot-00-strikers-dark-blaze/)

@@ -34,3 +34,5 @@ Date Built | Oct. 1, 2015
 CPU Clock Rate | 2.6GHz
 CPU Temperature While Idle | 26.0° C
 CPU Temperature Under Load | 30.0° C
+
+Bookmark: [Best Gaming PC Build Under $326.00: &quot;Green&quot; Plex-Box that&#39;s actually white](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-326-dollars-dot-00-green-plex-box-thats-actually-white/)

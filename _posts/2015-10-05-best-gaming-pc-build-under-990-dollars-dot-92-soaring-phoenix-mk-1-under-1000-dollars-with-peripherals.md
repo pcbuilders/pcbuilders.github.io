@@ -39,3 +39,5 @@ Date Built | July 15, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.02Ghz
 GPU Effective Memory Clock Rate | 1.15Ghz
+
+Bookmark: [Best Gaming PC Build Under $990.92: Soaring Phoenix Mk. 1 ---- Under $1000 With Peripherals ](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-990-dollars-dot-92-soaring-phoenix-mk-1-under-1000-dollars-with-peripherals/)

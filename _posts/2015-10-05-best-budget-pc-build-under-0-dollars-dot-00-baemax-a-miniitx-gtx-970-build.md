@@ -36,3 +36,5 @@ GPU Core Clock Rate | 1.11Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 40.0° C
 GPU Temperature Under Load | 65.0° C
+
+Bookmark: [Best Budget PC Build Under $0.00: Baemax - A miniITX GTX 970 build](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-baemax-a-miniitx-gtx-970-build/)

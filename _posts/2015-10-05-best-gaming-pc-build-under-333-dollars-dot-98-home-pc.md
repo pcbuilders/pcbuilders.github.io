@@ -29,3 +29,5 @@ Date Published | Oct. 1, 2015
 CPU Clock Rate | 3.2GHz
 CPU Temperature While Idle | 31.0° C
 CPU Temperature Under Load | 54.0° C
+
+Bookmark: [Best Gaming PC Build Under $333.98: Home PC](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-333-dollars-dot-98-home-pc/)

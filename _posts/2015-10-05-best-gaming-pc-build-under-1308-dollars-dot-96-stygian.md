@@ -48,3 +48,5 @@ GPU Core Clock Rate | 889MHz
 GPU Effective Memory Clock Rate | 6.01Ghz
 GPU Temperature While Idle | 46.0° C
 GPU Temperature Under Load | 65.0° C
+
+Bookmark: [Best Gaming PC Build Under $1308.96: Stygian](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1308-dollars-dot-96-stygian/)

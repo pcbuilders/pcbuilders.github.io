@@ -45,3 +45,5 @@ GPU Core Clock Rate | 889MHz
 GPU Effective Memory Clock Rate | 6.01Ghz
 GPU Temperature While Idle | 27.0° C
 GPU Temperature Under Load | 43.0° C
+
+Bookmark: [Best Gaming PC Build Under $1402.73: Air 540 Render Station W/ Light Gaming](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1402-dollars-dot-73-air-540-render-station-w-slash-light-gaming/)

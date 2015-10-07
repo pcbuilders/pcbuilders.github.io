@@ -40,3 +40,5 @@ Total | $2333.58
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.13Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2333.58: Hacky the 4k Hackintosh](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-2333-dollars-dot-58-hacky-the-4k-hackintosh/)

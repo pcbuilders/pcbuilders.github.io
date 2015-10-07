@@ -55,3 +55,6 @@ CPU Temperature While Idle | 27.0° C
 CPU Temperature Under Load | 45.0° C
 GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+
+Bookmark: [Best Budget PC Build Under $93.75: Defined Contrast - A long time coming.](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-93-dollars-dot-75-defined-contrast-a-long-time-coming/)

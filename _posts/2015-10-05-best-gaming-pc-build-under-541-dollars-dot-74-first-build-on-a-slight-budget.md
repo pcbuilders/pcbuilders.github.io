@@ -34,3 +34,5 @@ Date Built | Sept. 30, 2015
 CPU Clock Rate | 3.3GHz
 CPU Temperature While Idle | 45.0° C
 CPU Temperature Under Load | 60.0° C
+
+Bookmark: [Best Gaming PC Build Under $541.74: First build on a slight budget](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-541-dollars-dot-74-first-build-on-a-slight-budget/)

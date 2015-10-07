@@ -38,3 +38,5 @@ GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 1.25Ghz
 GPU Temperature While Idle | 37.0° C
 GPU Temperature Under Load | 65.0° C
+
+Bookmark: [Best Gaming PC Build Under $1189.97: CorsAIR 240](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1189-dollars-dot-97-corsair-240/)

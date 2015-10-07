@@ -37,3 +37,5 @@ Date Published | Oct. 2, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 5.4GHz
+
+Bookmark: [Best Gaming PC Build Under $606.00: The White Grave](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-606-dollars-dot-00-the-white-grave/)

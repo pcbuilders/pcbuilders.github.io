@@ -44,3 +44,5 @@ Date Published | Sept. 28, 2015
 Date Built | May 31, 2015
 CPU Clock Rate | 3.5GHz
 GPU Effective Memory Clock Rate | 5.5GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: Stallion or a workhorse? My first build for years, got to last a few too.](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-stallion-or-a-workhorse-my-first-build-for-years-got-to-last-a-few-too/)

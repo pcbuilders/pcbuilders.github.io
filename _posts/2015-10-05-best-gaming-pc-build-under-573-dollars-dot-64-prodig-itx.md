@@ -40,3 +40,5 @@ GPU Core Clock Rate | 1.22Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 27.0° C
 GPU Temperature Under Load | 59.0° C
+
+Bookmark: [Best Gaming PC Build Under $573.64: Prodig-itx](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-573-dollars-dot-64-prodig-itx/)

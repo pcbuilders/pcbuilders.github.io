@@ -30,3 +30,5 @@ Total | $434.83
 ## Details
 
 CPU Clock Rate | 4.0GHz
+
+Bookmark: [Best Budget Gaming PC Build Under $434.83: First Build - Basic Music Production PC](http://pcbuilders.github.io/2015/10/07/best-budget-gaming-pc-build-under-434-dollars-dot-83-first-build-basic-music-production-pc/)

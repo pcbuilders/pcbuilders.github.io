@@ -37,3 +37,5 @@ GPU Core Clock Rate | 1.14Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 60.0° C
+
+Bookmark: [Best Gaming PC Build Under $1209.34: M1 Devil&#39;s Canyon](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1209-dollars-dot-34-m1-devils-canyon/)

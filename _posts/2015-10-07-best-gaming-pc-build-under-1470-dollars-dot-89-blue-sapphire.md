@@ -36,3 +36,5 @@ Total | $1470.89
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.01Ghz
 GPU Effective Memory Clock Rate | 6.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1470.89: Blue Sapphire](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1470-dollars-dot-89-blue-sapphire/)

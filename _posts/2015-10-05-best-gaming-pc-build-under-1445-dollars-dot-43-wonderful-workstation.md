@@ -48,3 +48,5 @@ GPU Core Clock Rate | 1.17Ghz
 GPU Effective Memory Clock Rate | 6.61Ghz
 GPU Temperature While Idle | 42.0° C
 GPU Temperature Under Load | 70.0° C
+
+Bookmark: [Best Gaming PC Build Under $1445.43: Wonderful Workstation](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1445-dollars-dot-43-wonderful-workstation/)

@@ -38,3 +38,5 @@ Date Built | Sept. 21, 2015
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 990MHz
 GPU Effective Memory Clock Rate | 5.5GHz
+
+Bookmark: [Best Gaming PC Build Under $699.67: Mid-range PC for games and general use - &#39;Aquila&#39;](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-699-dollars-dot-67-mid-range-pc-for-games-and-general-use-aquila/)

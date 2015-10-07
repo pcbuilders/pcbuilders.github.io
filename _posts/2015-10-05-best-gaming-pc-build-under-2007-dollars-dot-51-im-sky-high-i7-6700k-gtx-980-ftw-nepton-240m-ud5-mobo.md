@@ -40,3 +40,5 @@ CPU Clock Rate | 4.0GHz
 CPU Temperature While Idle | 24.0° C
 GPU Core Clock Rate | 1.28Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2007.51: I&#39;m Sky High - i7-6700k - GTX 980 (FTW) - Nepton 240M - UD5 MOBO](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2007-dollars-dot-51-im-sky-high-i7-6700k-gtx-980-ftw-nepton-240m-ud5-mobo/)

@@ -56,3 +56,5 @@ GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
 GPU Temperature While Idle | 40.0° C
 GPU Temperature Under Load | 60.0° C
+
+Bookmark: [Best Gaming PC Build Under $2688.08: The original budget was $1400....](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2688-dollars-dot-08-the-original-budget-was-1400-dollars-dot-dot-dot/)

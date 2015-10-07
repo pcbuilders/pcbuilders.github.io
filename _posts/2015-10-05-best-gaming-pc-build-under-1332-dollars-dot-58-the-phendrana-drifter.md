@@ -38,3 +38,5 @@ CPU Clock Rate | 3.6GHz
 CPU Temperature While Idle | 35.0° C
 GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 6.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1332.58: The Phendrana Drifter](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1332-dollars-dot-58-the-phendrana-drifter/)

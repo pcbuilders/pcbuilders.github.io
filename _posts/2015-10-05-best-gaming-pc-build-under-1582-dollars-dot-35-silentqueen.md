@@ -41,3 +41,5 @@ GPU Core Clock Rate | 1.19Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 40.0° C
 GPU Temperature Under Load | 72.0° C
+
+Bookmark: [Best Gaming PC Build Under $1582.35: SilentQueen](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1582-dollars-dot-35-silentqueen/)

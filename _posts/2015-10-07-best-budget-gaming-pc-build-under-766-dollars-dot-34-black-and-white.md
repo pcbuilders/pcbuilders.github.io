@@ -40,3 +40,5 @@ CPU Temperature While Idle | 22.0° C
 GPU Core Clock Rate | 1.11Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 28.0° C
+
+Bookmark: [Best Budget Gaming PC Build Under $766.34: Black and White](http://pcbuilders.github.io/2015/10/07/best-budget-gaming-pc-build-under-766-dollars-dot-34-black-and-white/)

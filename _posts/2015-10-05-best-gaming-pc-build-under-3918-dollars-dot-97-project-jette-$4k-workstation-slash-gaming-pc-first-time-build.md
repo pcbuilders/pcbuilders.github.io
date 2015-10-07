@@ -51,3 +51,5 @@ GPU Core Clock Rate | 1.25Ghz
 GPU Effective Memory Clock Rate | 7.21Ghz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 52.0° C
+
+Bookmark: [Best Gaming PC Build Under $3918.97: PROJECT: JETTE - $4K Workstation/Gaming  PC (First time build)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3918-dollars-dot-97-project-jette-$4k-workstation-slash-gaming-pc-first-time-build/)

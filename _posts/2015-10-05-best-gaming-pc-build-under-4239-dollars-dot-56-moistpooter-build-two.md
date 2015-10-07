@@ -38,3 +38,5 @@ GPU Core Clock Rate | 1.15Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 32.0° C
 GPU Temperature Under Load | 50.0° C
+
+Bookmark: [Best Gaming PC Build Under $4239.56: MoistPooter - Build Two](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-4239-dollars-dot-56-moistpooter-build-two/)

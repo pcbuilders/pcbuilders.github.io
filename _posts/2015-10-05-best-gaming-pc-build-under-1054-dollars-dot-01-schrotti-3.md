@@ -38,3 +38,5 @@ Date Published | Sept. 28, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 975MHz
 GPU Effective Memory Clock Rate | 5.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1054.01: Schrotti &lt;3](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1054-dollars-dot-01-schrotti-3/)

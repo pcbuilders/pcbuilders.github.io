@@ -31,3 +31,5 @@ Total | $705.13
 
 Date Published | Oct. 4, 2015
 CPU Clock Rate | 3.2GHz
+
+Bookmark: [Best Gaming PC Build Under $705.13: The $700 quiet and cool Skylake PC with dual 1080p monitors](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-705-dollars-dot-13-the-700-dollars-quiet-and-cool-skylake-pc-with-dual-1080p-monitors/)

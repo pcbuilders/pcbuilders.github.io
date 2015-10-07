@@ -40,3 +40,5 @@ Total | $2124.97
 
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 1.27Ghz
+
+Bookmark: [Best Gaming PC Build Under $2124.97: Black Honeycomb - NEW IN WIN 805 USB Type A/C Case](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-2124-dollars-dot-97-black-honeycomb-new-in-win-805-usb-type-a-slash-c-case/)

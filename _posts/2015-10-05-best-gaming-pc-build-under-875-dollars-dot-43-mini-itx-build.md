@@ -37,3 +37,5 @@ Date Published | Oct. 2, 2015
 CPU Clock Rate | 3.2GHz
 GPU Core Clock Rate | 1.22Ghz
 GPU Effective Memory Clock Rate | 5.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $875.43: Mini-ITX build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-875-dollars-dot-43-mini-itx-build/)

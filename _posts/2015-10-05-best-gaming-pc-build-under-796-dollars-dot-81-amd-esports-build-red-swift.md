@@ -38,3 +38,5 @@ GPU Core Clock Rate | 995MHz
 GPU Effective Memory Clock Rate | 5.6GHz
 GPU Temperature While Idle | 35.0° C
 GPU Temperature Under Load | 70.0° C
+
+Bookmark: [Best Gaming PC Build Under $796.81: AMD - eSports Build (RED Swift)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-796-dollars-dot-81-amd-esports-build-red-swift/)

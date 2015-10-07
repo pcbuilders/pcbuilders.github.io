@@ -41,3 +41,5 @@ GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 60.0° C
+
+Bookmark: [Best Gaming PC Build Under $1790.03: Blue Thunder](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1790-dollars-dot-03-blue-thunder/)

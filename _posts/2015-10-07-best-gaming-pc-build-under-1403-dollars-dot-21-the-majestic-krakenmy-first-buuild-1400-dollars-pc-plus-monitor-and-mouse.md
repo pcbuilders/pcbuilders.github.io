@@ -37,3 +37,5 @@ Total | $1403.21
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.23Ghz
 GPU Effective Memory Clock Rate | 7.2GHz
+
+Bookmark: [Best Gaming PC Build Under $1403.21: The Majestic Krakenmy first buuild $1400 pc +  monitor and mouse](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1403-dollars-dot-21-the-majestic-krakenmy-first-buuild-1400-dollars-pc-plus-monitor-and-mouse/)

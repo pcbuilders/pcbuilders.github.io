@@ -39,3 +39,5 @@ Total | $573.71
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 700MHz
 GPU Effective Memory Clock Rate | 1.4GHz
+
+Bookmark: [Best Gaming PC Build Under $573.71: PC Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-573-dollars-dot-71-pc-build/)

@@ -52,3 +52,5 @@ GPU Core Clock Rate | 1.48Ghz
 GPU Effective Memory Clock Rate | 8.01Ghz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 52.0° C
+
+Bookmark: [Best Gaming PC Build Under $3950.68: ROOT 2.0 Final](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3950-dollars-dot-68-root-2-dot-0-final/)

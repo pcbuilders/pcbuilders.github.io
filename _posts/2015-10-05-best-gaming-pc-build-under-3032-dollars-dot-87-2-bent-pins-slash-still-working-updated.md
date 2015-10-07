@@ -53,3 +53,5 @@ GPU Core Clock Rate | 1.07Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
 GPU Temperature While Idle | 28.0° C
 GPU Temperature Under Load | 83.0° C
+
+Bookmark: [Best Gaming PC Build Under $3032.87: 2 bent pins / still working (Updated)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3032-dollars-dot-87-2-bent-pins-slash-still-working-updated/)

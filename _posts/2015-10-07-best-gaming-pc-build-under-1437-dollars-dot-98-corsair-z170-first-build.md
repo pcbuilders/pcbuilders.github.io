@@ -39,3 +39,5 @@ Total | $1437.98
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.08Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1437.98: Corsair z170  First Build](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1437-dollars-dot-98-corsair-z170-first-build/)

@@ -38,3 +38,5 @@ Date Built | Dec. 31, 2014
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.24Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1091.39: OP Machine](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1091-dollars-dot-39-op-machine/)

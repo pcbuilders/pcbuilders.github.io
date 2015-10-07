@@ -43,3 +43,5 @@ GPU Core Clock Rate | 1.01Ghz
 GPU Effective Memory Clock Rate | 6.01Ghz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 80.0° C
+
+Bookmark: [Best Gaming PC Build Under $1075.87: D4RK kNIGHT (itx)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1075-dollars-dot-87-d4rk-knight-itx/)

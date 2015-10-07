@@ -42,3 +42,5 @@ Date Built | Sept. 25, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 970MHz
 GPU Effective Memory Clock Rate | 5.7GHz
+
+Bookmark: [Best Gaming PC Build Under $1228.44: Dragon MK III](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1228-dollars-dot-44-dragon-mk-iii/)

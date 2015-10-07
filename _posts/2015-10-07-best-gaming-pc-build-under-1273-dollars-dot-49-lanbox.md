@@ -38,3 +38,5 @@ Total | $1273.49
 CPU Clock Rate | 3.4GHz
 GPU Core Clock Rate | 880MHz
 GPU Effective Memory Clock Rate | 6.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1273.49: LanBox](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1273-dollars-dot-49-lanbox/)

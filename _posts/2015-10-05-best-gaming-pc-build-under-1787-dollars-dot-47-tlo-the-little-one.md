@@ -34,3 +34,5 @@ Date Published | Sept. 28, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 5.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1787.47: TLO (The little one)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1787-dollars-dot-47-tlo-the-little-one/)

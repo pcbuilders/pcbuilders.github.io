@@ -38,3 +38,5 @@ Total | $4497.21
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.13Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $4497.21: 4k Starter Kit](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-4497-dollars-dot-21-4k-starter-kit/)

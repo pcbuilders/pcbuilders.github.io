@@ -38,3 +38,5 @@ GPU Core Clock Rate | 1.07Ghz
 GPU Effective Memory Clock Rate | 6.01Ghz
 GPU Temperature While Idle | 36.0° C
 GPU Temperature Under Load | 58.0° C
+
+Bookmark: [Best Gaming PC Build Under $1260.47: Mid 2015 Gaming Build!](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1260-dollars-dot-47-mid-2015-gaming-build/)

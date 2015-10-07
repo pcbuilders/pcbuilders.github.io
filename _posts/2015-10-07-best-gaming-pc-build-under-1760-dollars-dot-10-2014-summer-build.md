@@ -39,3 +39,5 @@ Total | $1760.10
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 6.1GHz
+
+Bookmark: [Best Gaming PC Build Under $1760.10: 2014 Summer Build](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-1760-dollars-dot-10-2014-summer-build/)

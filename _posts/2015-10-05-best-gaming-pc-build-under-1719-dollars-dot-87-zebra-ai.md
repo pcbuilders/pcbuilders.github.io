@@ -47,3 +47,5 @@ GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.1GHz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 50.0° C
+
+Bookmark: [Best Gaming PC Build Under $1719.87: Zebra A.I.](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1719-dollars-dot-87-zebra-ai/)

@@ -34,3 +34,5 @@ Total | $315.83
 Date Published | Oct. 2, 2015
 Date Built | Sept. 30, 2015
 CPU Clock Rate | 3.7GHz
+
+Bookmark: [Best Gaming PC Build Under $315.83: HTPC/Living Room-Office Alternative](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-315-dollars-dot-83-htpc-slash-living-room-office-alternative/)

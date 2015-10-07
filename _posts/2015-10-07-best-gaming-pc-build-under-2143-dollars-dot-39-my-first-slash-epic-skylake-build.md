@@ -36,3 +36,5 @@ Total | $2143.39
 CPU Clock Rate | 3.4GHz
 GPU Core Clock Rate | 1.10Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2143.39: My first/epic skylake build.](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-2143-dollars-dot-39-my-first-slash-epic-skylake-build/)

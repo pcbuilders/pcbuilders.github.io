@@ -45,3 +45,5 @@ GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 6.0GHz
 GPU Temperature While Idle | 38.0° C
 GPU Temperature Under Load | 68.0° C
+
+Bookmark: [Best Gaming PC Build Under $1061.72: Red Sharkoon](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1061-dollars-dot-72-red-sharkoon/)

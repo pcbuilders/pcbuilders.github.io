@@ -31,3 +31,5 @@ Date Published | Sept. 28, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 900MHz
 GPU Effective Memory Clock Rate | 5.6GHz
+
+Bookmark: [Best Gaming PC Build Under $449.00: Builder&#39;s Mistake; Learn from my Bad Choices.](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-449-dollars-dot-00-builders-mistake-learn-from-my-bad-choices/)

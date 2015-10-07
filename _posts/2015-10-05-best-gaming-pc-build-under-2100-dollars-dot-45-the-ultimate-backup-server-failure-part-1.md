@@ -38,3 +38,5 @@ Date Published | Oct. 1, 2015
 Date Built | Sept. 29, 2015
 CPU Clock Rate | 3.3GHz
 CPU Temperature While Idle | 40.0° C
+
+Bookmark: [Best Gaming PC Build Under $2100.45: The Ultimate Backup Server (Failure: Part 1)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2100-dollars-dot-45-the-ultimate-backup-server-failure-part-1/)

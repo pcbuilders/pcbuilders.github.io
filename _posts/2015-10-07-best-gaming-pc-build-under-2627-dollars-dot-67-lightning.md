@@ -40,3 +40,5 @@ Total | $2627.67
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 500MHz
+
+Bookmark: [Best Gaming PC Build Under $2627.67: Lightning](http://pcbuilders.github.io/2015/10/07/best-gaming-pc-build-under-2627-dollars-dot-67-lightning/)

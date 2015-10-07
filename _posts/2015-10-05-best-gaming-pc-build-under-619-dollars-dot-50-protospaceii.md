@@ -41,3 +41,5 @@ Date Built | Oct. 4, 2015
 CPU Clock Rate | 3.1GHz
 GPU Core Clock Rate | 1.02Ghz
 GPU Effective Memory Clock Rate | 6.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $619.50: ProtoSpaceII](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-619-dollars-dot-50-protospaceii/)

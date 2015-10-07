@@ -46,3 +46,5 @@ CPU Temperature While Idle | 28.0° C
 CPU Temperature Under Load | 4.6° C
 GPU Core Clock Rate | 1.09Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1323.57: Omega prime](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1323-dollars-dot-57-omega-prime/)

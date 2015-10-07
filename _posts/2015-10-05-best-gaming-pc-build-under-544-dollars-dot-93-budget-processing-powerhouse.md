@@ -34,3 +34,5 @@ Date Built | Sept. 16, 2015
 CPU Clock Rate | 4.0GHz
 CPU Temperature While Idle | 40.0° C
 CPU Temperature Under Load | 70.0° C
+
+Bookmark: [Best Gaming PC Build Under $544.93: Budget Processing Powerhouse](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-544-dollars-dot-93-budget-processing-powerhouse/)

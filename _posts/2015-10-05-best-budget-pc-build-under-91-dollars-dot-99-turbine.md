@@ -42,3 +42,6 @@ GPU Core Clock Rate | 1.22Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 29.0° C
 GPU Temperature Under Load | 51.0° C
+
+
+Bookmark: [Best Budget PC Build Under $91.99: Turbine](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-91-dollars-dot-99-turbine/)

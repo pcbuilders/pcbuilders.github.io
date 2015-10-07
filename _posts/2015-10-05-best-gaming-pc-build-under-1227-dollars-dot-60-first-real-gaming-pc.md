@@ -37,3 +37,5 @@ CPU Temperature Under Load | 48.0° C
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 1.25Ghz
 GPU Temperature Under Load | 75.0° C
+
+Bookmark: [Best Gaming PC Build Under $1227.60: First real gaming pc](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1227-dollars-dot-60-first-real-gaming-pc/)

@@ -37,3 +37,5 @@ CPU Temperature While Idle | 35.0° C
 CPU Temperature Under Load | 44.0° C
 GPU Core Clock Rate | 1.14Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Budget PC Build Under $0.00: My first build.](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-my-first-build/)

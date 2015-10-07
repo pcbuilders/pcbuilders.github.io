@@ -37,3 +37,5 @@ Total | $1250.18
 CPU Clock Rate | 3.2GHz
 GPU Core Clock Rate | 1.17Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1250.18: Hyperion (maybe)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1250-dollars-dot-18-hyperion-maybe/)

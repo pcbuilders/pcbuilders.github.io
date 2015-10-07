@@ -31,3 +31,5 @@ Date Published | Oct. 2, 2015
 Date Built | Dec. 26, 2012
 GPU Core Clock Rate | 928MHz
 GPU Effective Memory Clock Rate | 5.4GHz
+
+Bookmark: [Best Gaming PC Build Under $338.66: G1 - My not-so-great gaming PC](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-338-dollars-dot-66-g1-my-not-so-great-gaming-pc/)

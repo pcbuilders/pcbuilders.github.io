@@ -36,3 +36,5 @@ Date Published | Sept. 30, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.07Ghz
 GPU Effective Memory Clock Rate | 6.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $736.75: C70-A1](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-736-dollars-dot-75-c70-a1/)

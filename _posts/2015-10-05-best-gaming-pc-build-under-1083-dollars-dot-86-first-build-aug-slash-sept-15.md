@@ -38,3 +38,5 @@ Date Built | Sept. 29, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 947MHz
 GPU Effective Memory Clock Rate | 5.0GHz
+
+Bookmark: [Best Gaming PC Build Under $1083.86: First Build Aug/Sept 15&#39;](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1083-dollars-dot-86-first-build-aug-slash-sept-15/)

@@ -44,3 +44,5 @@ CPU Temperature While Idle | 38.0° C
 CPU Temperature Under Load | 44.0° C
 GPU Core Clock Rate | 1.14Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1403.81: Daenerys Mother of Dragons](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1403-dollars-dot-81-daenerys-mother-of-dragons/)

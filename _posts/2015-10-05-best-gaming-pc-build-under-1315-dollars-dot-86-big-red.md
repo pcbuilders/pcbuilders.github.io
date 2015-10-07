@@ -40,3 +40,5 @@ CPU Clock Rate | 3.5GHz
 CPU Temperature While Idle | 30.0° C
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 6.1GHz
+
+Bookmark: [Best Gaming PC Build Under $1315.86: BIG RED](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1315-dollars-dot-86-big-red/)

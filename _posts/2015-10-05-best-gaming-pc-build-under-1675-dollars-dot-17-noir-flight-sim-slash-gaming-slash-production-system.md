@@ -66,3 +66,5 @@ GPU Core Clock Rate | 1.4GHz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 55.0° C
 GPU Temperature Under Load | 78.0° C
+
+Bookmark: [Best Gaming PC Build Under $1675.17: NOiR! - Flight Sim / Gaming / Production System](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1675-dollars-dot-17-noir-flight-sim-slash-gaming-slash-production-system/)

@@ -43,3 +43,5 @@ GPU Core Clock Rate | 1.49Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 29.0° C
 GPU Temperature Under Load | 65.0° C
+
+Bookmark: [Best Gaming PC Build Under $1773.45: White Light](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1773-dollars-dot-45-white-light/)

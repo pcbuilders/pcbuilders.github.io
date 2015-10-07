@@ -44,3 +44,5 @@ CPU Clock Rate | 4.2GHz
 CPU Temperature While Idle | 25.0° C
 GPU Core Clock Rate | 1.28Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1270.43: &quot;Orange Sky&quot; October 2015 Skylake Build (First Time Builder)](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1270-dollars-dot-43-orange-sky-october-2015-skylake-build-first-time-builder/)

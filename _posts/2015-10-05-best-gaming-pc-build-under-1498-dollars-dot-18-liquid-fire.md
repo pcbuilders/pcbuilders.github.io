@@ -35,3 +35,5 @@ Date Built | Oct. 2, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.14Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1498.18: Liquid Fire](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1498-dollars-dot-18-liquid-fire/)

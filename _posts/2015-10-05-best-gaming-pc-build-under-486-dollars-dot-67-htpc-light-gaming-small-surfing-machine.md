@@ -32,3 +32,5 @@ Total | $486.67
 Date Published | Oct. 1, 2015
 CPU Clock Rate | 2.05Ghz
 GPU Core Clock Rate | 900MHz
+
+Bookmark: [Best Gaming PC Build Under $486.67: HTPC, light GAMING, small SURFING machine!](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-486-dollars-dot-67-htpc-light-gaming-small-surfing-machine/)

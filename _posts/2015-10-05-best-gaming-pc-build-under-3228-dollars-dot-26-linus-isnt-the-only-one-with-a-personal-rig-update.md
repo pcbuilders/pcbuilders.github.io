@@ -44,3 +44,5 @@ Date Published | Oct. 1, 2015
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 1.10Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $3228.26: Linus isn&#39;t the only one with a personal rig update](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3228-dollars-dot-26-linus-isnt-the-only-one-with-a-personal-rig-update/)

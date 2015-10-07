@@ -37,3 +37,5 @@ CPU Temperature While Idle | 30.0° C
 GPU Core Clock Rate | 1.19Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 23.0° C
+
+Bookmark: [Best Gaming PC Build Under $2070.91: VR Rig - First Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2070-dollars-dot-91-vr-rig-first-build/)

@@ -35,3 +35,5 @@ GPU Core Clock Rate | 1.05Ghz
 GPU Effective Memory Clock Rate | 6.01Ghz
 GPU Temperature While Idle | 38.0° C
 GPU Temperature Under Load | 76.0° C
+
+Bookmark: [Best Gaming PC Build Under $403.24: First Build. My introduction into the Masterace. Need help with name??](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-403-dollars-dot-24-first-build-my-introduction-into-the-masterace-need-help-with-name/)

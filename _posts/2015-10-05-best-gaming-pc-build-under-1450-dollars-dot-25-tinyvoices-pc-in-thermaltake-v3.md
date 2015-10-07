@@ -37,3 +37,5 @@ Date Published | Sept. 28, 2015
 CPU Clock Rate | 3.4GHz
 GPU Core Clock Rate | 1.07Ghz
 GPU Effective Memory Clock Rate | 6.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1450.25: TinyVoices PC in Thermaltake V3](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1450-dollars-dot-25-tinyvoices-pc-in-thermaltake-v3/)

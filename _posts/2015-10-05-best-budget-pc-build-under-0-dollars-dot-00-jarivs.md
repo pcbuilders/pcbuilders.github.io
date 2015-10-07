@@ -33,3 +33,5 @@ Total | $0.00
 
 Date Published | Sept. 28, 2015
 CPU Clock Rate | 3.2GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: JARIVS](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-jarivs/)

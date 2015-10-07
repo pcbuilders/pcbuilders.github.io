@@ -44,3 +44,5 @@ CPU Clock Rate | 3.2GHz
 CPU Temperature While Idle | 30.0° C
 CPU Temperature Under Load | 50.0° C
 GPU Core Clock Rate | 720MHz
+
+Bookmark: [Best Gaming PC Build Under $1471.90: Chaos Machien MK 1](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1471-dollars-dot-90-chaos-machien-mk-1/)

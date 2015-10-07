@@ -38,3 +38,5 @@ Date Published | Oct. 2, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.13Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $1660.82: iFritz Console Crusher ](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1660-dollars-dot-82-ifritz-console-crusher/)

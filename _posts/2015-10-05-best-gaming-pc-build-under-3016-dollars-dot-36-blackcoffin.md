@@ -53,3 +53,5 @@ GPU Core Clock Rate | 1.14Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
 GPU Temperature While Idle | 25.0° C
 GPU Temperature Under Load | 50.0° C
+
+Bookmark: [Best Gaming PC Build Under $3016.36: blackcoffin](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3016-dollars-dot-36-blackcoffin/)

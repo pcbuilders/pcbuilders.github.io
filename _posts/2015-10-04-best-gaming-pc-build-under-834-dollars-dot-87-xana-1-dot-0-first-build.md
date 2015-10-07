@@ -35,3 +35,6 @@ CPU Clock Rate | 4.0GHz
 CPU Temperature While Idle | 27.0° C
 GPU Core Clock Rate | 1.17Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+
+Bookmark: [Best Gaming PC Build Under $834.87: X.A.N.A 1.0 (First Build)](http://pcbuilders.github.io/2015/10/04/best-gaming-pc-build-under-834-dollars-dot-87-xana-1-dot-0-first-build/)

@@ -51,3 +51,5 @@ GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
 GPU Temperature While Idle | 40.0° C
 GPU Temperature Under Load | 75.0° C
+
+Bookmark: [Best Budget PC Build Under $0.00: Red stuff!](http://pcbuilders.github.io/2015/10/05/best-budget-pc-build-under-0-dollars-dot-00-red-stuff/)

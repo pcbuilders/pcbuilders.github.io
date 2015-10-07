@@ -35,3 +35,5 @@ CPU Temperature While Idle | 35.0° C
 CPU Temperature Under Load | 65.0° C
 GPU Core Clock Rate | 1.02Ghz
 GPU Effective Memory Clock Rate | 5.4GHz
+
+Bookmark: [Best Budget PC Build Under $0.00: First Build - Mufasa (&quot;King&quot;)](http://pcbuilders.github.io/2015/10/07/best-budget-pc-build-under-0-dollars-dot-00-first-build-mufasa-king/)

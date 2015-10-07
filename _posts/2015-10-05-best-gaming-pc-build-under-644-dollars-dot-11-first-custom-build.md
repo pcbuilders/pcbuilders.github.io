@@ -41,3 +41,5 @@ CPU Temperature Under Load | 90.0° C
 GPU Effective Memory Clock Rate | 5.5GHz
 GPU Temperature While Idle | 55.0° C
 GPU Temperature Under Load | 85.0° C
+
+Bookmark: [Best Gaming PC Build Under $644.11: First custom build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-644-dollars-dot-11-first-custom-build/)

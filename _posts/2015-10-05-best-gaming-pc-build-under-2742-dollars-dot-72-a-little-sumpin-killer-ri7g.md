@@ -44,3 +44,5 @@ Date Published | Oct. 2, 2015
 CPU Clock Rate | 4.0GHz
 GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.1GHz
+
+Bookmark: [Best Gaming PC Build Under $2742.72: A Little Sumpin Killer RI7G](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2742-dollars-dot-72-a-little-sumpin-killer-ri7g/)

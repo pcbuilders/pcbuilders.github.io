@@ -48,3 +48,5 @@ GPU Core Clock Rate | 1.11Ghz
 GPU Effective Memory Clock Rate | 7.05Ghz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 45.0° C
+
+Bookmark: [Best Gaming PC Build Under $1788.37: First PC Build - Archon](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1788-dollars-dot-37-first-pc-build-archon/)

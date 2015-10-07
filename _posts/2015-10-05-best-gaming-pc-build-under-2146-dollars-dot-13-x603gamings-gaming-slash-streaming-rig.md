@@ -46,3 +46,5 @@ GPU Core Clock Rate | 1.2GHz
 GPU Effective Memory Clock Rate | 7.0GHz
 GPU Temperature While Idle | 40.0° C
 GPU Temperature Under Load | 50.0° C
+
+Bookmark: [Best Gaming PC Build Under $2146.13: x603Gaming&#39;s Gaming/streaming Rig](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2146-dollars-dot-13-x603gamings-gaming-slash-streaming-rig/)

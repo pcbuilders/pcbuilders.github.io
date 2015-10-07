@@ -32,3 +32,5 @@ Date Built | Sept. 30, 2015
 CPU Clock Rate | 3.2GHz
 CPU Temperature While Idle | 32.0° C
 CPU Temperature Under Load | 51.0° C
+
+Bookmark: [Best Gaming PC Build Under $577.42: CrystalCraftMC - Minecraft Server Tower](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-577-dollars-dot-42-crystalcraftmc-minecraft-server-tower/)

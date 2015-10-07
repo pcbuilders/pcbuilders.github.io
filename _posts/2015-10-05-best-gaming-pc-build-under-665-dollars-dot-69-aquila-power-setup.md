@@ -48,3 +48,5 @@ GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 1.25Ghz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 55.0° C
+
+Bookmark: [Best Gaming PC Build Under $665.69: Aquila Power Setup](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-665-dollars-dot-69-aquila-power-setup/)

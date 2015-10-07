@@ -51,3 +51,5 @@ GPU Core Clock Rate | 1.04Ghz
 GPU Effective Memory Clock Rate | 5.4GHz
 GPU Temperature While Idle | 30.0° C
 GPU Temperature Under Load | 70.0° C
+
+Bookmark: [Best Gaming PC Build Under $1831.26: Ogre](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1831-dollars-dot-26-ogre/)

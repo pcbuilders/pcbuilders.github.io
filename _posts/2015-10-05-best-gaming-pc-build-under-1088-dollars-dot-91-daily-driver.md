@@ -48,3 +48,5 @@ CPU Temperature While Idle | 32.0° C
 GPU Core Clock Rate | 1.03Ghz
 GPU Effective Memory Clock Rate | 5.4GHz
 GPU Temperature While Idle | 30.0° C
+
+Bookmark: [Best Gaming PC Build Under $1088.91: Daily Driver](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-1088-dollars-dot-91-daily-driver/)

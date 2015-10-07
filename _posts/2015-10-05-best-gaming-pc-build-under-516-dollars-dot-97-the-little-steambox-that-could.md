@@ -33,3 +33,5 @@ Date Published | Sept. 28, 2015
 CPU Clock Rate | 4.2GHz
 GPU Core Clock Rate | 1.02Ghz
 GPU Effective Memory Clock Rate | 4.6GHz
+
+Bookmark: [Best Gaming PC Build Under $516.97: The Little Steambox that Could](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-516-dollars-dot-97-the-little-steambox-that-could/)

@@ -58,3 +58,5 @@ Date Published | Oct. 1, 2015
 CPU Clock Rate | 3.5GHz
 GPU Core Clock Rate | 1.0GHz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $3476.52: Project FastRed - Custom Liquid Cooled Enthoo Primo Build](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3476-dollars-dot-52-project-fastred-custom-liquid-cooled-enthoo-primo-build/)

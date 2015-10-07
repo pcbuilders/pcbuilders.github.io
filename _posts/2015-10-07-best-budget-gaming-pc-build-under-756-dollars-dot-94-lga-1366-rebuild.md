@@ -36,3 +36,5 @@ Total | $756.94
 
 GPU Core Clock Rate | 1.22Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Budget Gaming PC Build Under $756.94: LGA 1366 rebuild](http://pcbuilders.github.io/2015/10/07/best-budget-gaming-pc-build-under-756-dollars-dot-94-lga-1366-rebuild/)

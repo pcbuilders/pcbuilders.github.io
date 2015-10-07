@@ -32,3 +32,5 @@ Total | $710.00
 CPU Clock Rate | 3.2GHz
 GPU Core Clock Rate | 1.19Ghz
 GPU Effective Memory Clock Rate | 5.4GHz
+
+Bookmark: [Best Budget Gaming PC Build Under $710.00: RVZ02 SFF Gaming](http://pcbuilders.github.io/2015/10/07/best-budget-gaming-pc-build-under-710-dollars-dot-00-rvz02-sff-gaming/)

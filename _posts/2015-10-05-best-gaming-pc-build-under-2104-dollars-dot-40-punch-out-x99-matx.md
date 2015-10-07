@@ -38,3 +38,5 @@ Total | $2104.40
 CPU Clock Rate | 3.3GHz
 GPU Core Clock Rate | 1.10Ghz
 GPU Effective Memory Clock Rate | 7.01Ghz
+
+Bookmark: [Best Gaming PC Build Under $2104.40: Punch out! x99 MATX](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-2104-dollars-dot-40-punch-out-x99-matx/)

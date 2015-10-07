@@ -54,3 +54,5 @@ CPU Clock Rate | 3.3GHz
 CPU Temperature While Idle | 38.0° C
 GPU Core Clock Rate | 1.18Ghz
 GPU Effective Memory Clock Rate | 7.0GHz
+
+Bookmark: [Best Gaming PC Build Under $3992.33: Dark Tower PC](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-3992-dollars-dot-33-dark-tower-pc/)

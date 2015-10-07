@@ -41,3 +41,5 @@ GPU Core Clock Rate | 1.52Ghz
 GPU Effective Memory Clock Rate | 7.24Ghz
 GPU Temperature While Idle | 34.0° C
 GPU Temperature Under Load | 65.0° C
+
+Bookmark: [Best Gaming PC Build Under $517.94: The 1050 experience MK II](http://pcbuilders.github.io/2015/10/05/best-gaming-pc-build-under-517-dollars-dot-94-the-1050-experience-mk-ii/)
